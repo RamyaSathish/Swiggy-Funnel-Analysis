@@ -9,4 +9,4 @@ Business Case:
 •	Date of highs and lows in the orders with respect to same day last week, were identified.
 •	The overall conversion was broken into smaller parts in the following metrics, *L2M *M2C *C2P *P2O
 •	Fluctuating conversions were identified.
-•	Hypotheses were created on what could be the possibility for fluctuation in conversions
+•	Hypotheses were created on what could be the possibility for fluctuation in conversion
